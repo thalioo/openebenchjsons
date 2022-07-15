@@ -1,0 +1,13 @@
+{
+    "_id": "PerMedCoE:Mem",
+    "_schema": "https://www.elixir-europe.org/excelerate/WP2/json-schemas/1.0/Metrics",
+    "title": "Percentage of memory usage",
+    "description": "The percentage of memory used by the correspondig application.",
+    "metrics_contact_ids": [
+      "Thaleia.Ntiniakou"
+    ],
+    "formal_definition": "The percentage of memory used by the correspondig application.",
+    "references": [
+      ""
+    ]
+  }

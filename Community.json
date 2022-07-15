@@ -1,0 +1,18 @@
+{
+    "_id": "OEBC009",
+    "_schema": "https://www.elixir-europe.org/excelerate/WP2/json-schemas/1.0/Community",
+    "name": "Personalized Medicine Center of Excellence",
+    "acronym": "PerMedCoE ",
+    "status": "active",
+    "description": "Towards exascale-optimised cell-level simulation software that enables personalised medicine",
+    "links": [
+      {
+        "label": "MainSite",
+        "uri": "https://permedcoe.eu/"
+      }
+    ],
+    "community_contact_ids": [
+      ""
+    ],
+     "references": [""]
+  }

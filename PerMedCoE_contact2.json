@@ -1,0 +1,11 @@
+{
+    "_id": "Thaleia.Ntiniakou",
+    "_schema" : "https://www.elixir-europe.org/excelerate/WP2/json-schemas/1.0/Contact",
+    "community_id" : "OEBC009",
+    "contact_type": "person",
+    "givenName": "Thaleia",
+    "surname": "Ntiniakou",
+    "email": [
+      "thaleia.ntiniakou@bsc.es"
+    ]
+  }

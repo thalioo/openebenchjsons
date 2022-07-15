@@ -1,0 +1,13 @@
+{
+    "_id": "PerMedCoE:CellCountScore",
+    "_schema": "https://www.elixir-europe.org/excelerate/WP2/json-schemas/1.0/Metrics",
+    "title": "Cell Count",
+    "description": "The number of cells that are produced over time.",
+    "metrics_contact_ids": [
+      "Thaleia.Ntiniakou"
+    ],
+    "formal_definition": "The total number of cells that are produced over time",
+    "references": [
+      ""
+    ]
+  }

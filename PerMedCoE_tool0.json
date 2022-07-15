@@ -1,0 +1,18 @@
+{
+    "_id": "PerMedCoE:tool0",
+    "_schema": "https://www.elixir-europe.org/excelerate/WP2/json-schemas/1.0/Tool",
+    "community_ids": ["OEBC009"],
+    "name": "PhysiCell",
+    "is_automated": true,
+    "tool_contact_ids": [
+      "Thaleia.Ntiniakou"
+    ],
+    "status": "online",
+    "activation": "2013-07-05T00:00:00.000+00:00",
+    "tool_access": [
+      {
+        "tool_access_type": "software",
+        "link": "https://robetta.bakerlab.org/"
+      }
+    ]
+  }  
