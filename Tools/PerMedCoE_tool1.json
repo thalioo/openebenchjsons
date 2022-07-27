@@ -1,0 +1,22 @@
+{
+    "_id": "PerMedCoE:tool1",
+    "_schema": "https://www.elixir-europe.org/excelerate/WP2/json-schemas/1.0/Tool",
+    "community_ids": ["OEBC009"],
+    "name": "Chaste",
+    "description": "Chaste (Cancer, Heart and Soft Tissue Environment) is a general purpose simulation package aimed at multi-scale, computationally demanding problems arising in biology and physiology.",
+    "is_automated": true,
+    "tool_contact_ids": [
+      "Thaleia.Ntiniakou"
+    ],
+    "status": "online",
+    "references": [
+      "doi:10.1016/j.cpc.2009.07.019"
+    ],
+    "tool_access": [
+      {
+        "tool_access_type": "other",
+        "link": "https://chaste.cs.ox.ac.uk/trac/wiki/GettingStarted",
+        "techdocs":[{"uri":"https://chaste.cs.ox.ac.uk/trac/wiki","label":"doc"}]
+      }
+    ]
+  }  

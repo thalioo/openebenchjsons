@@ -1,0 +1,22 @@
+{
+    "_id": "PerMedCoE:tool0",
+    "_schema": "https://www.elixir-europe.org/excelerate/WP2/json-schemas/1.0/Tool",
+    "community_ids": ["OEBC009"],
+    "name": "Timothy",
+    "description": "Timothy is a novel large scale parallel computational model allowing 3-D simulations of cell colonies growing and interacting with variable environment in previously unavailable tissue scale",
+    "is_automated": true,
+    "tool_contact_ids": [
+      "Thaleia.Ntiniakou"
+    ],
+    "status": "unmaintained",
+    "references": [
+      "doi:10.1371/journal.pcbi.1005991"
+    ],
+    "tool_access": [
+      {
+        "tool_access_type": "other",
+        "link": "https://timothy.icm.edu.pl/",
+        "techdocs":[{"uri":"https://timothy.icm.edu.pl/doc/index.html","label":"doc"}]
+      }
+    ]
+  }  

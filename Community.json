@@ -12,7 +12,16 @@
       }
     ],
     "community_contact_ids": [
-      ""
+      "Arnau.Montagud",
+      "Thaleia.Ntiniakou"
     ],
-     "references": [""]
+    "reference_tools":[""],
+     "keywords": [
+      "cellular metabolism",
+      "cell population simulations",
+      "agent based modelling",
+      "Gene ontologies",
+      "stochastic simulations of Boolean models",
+      "cell-cell interactions",
+      "personalized medicine"]
   }

@@ -1,0 +1,10 @@
+{
+    "_id": "PerMedCoE:Power",
+    "_schema": "https://www.elixir-europe.org/excelerate/WP2/json-schemas/1.0/Metrics",
+    "title": "Power Usage",
+    "description": "The power consumed by the application, measued in Watts.",
+    "metrics_contact_ids": [
+      "Thaleia.Ntiniakou"
+    ],
+    "formal_definition": "The power consumed by the application, measued in Watts."
+  }

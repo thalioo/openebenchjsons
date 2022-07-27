@@ -1,0 +1,10 @@
+{
+    "_id": "PerMedCoE:CPU",
+    "_schema": "https://www.elixir-europe.org/excelerate/WP2/json-schemas/1.0/Metrics",
+    "title": "CPU consumption",
+    "description": "The CPU usage is the percentage of time that the CPU is being used to complete its tasks.",
+    "metrics_contact_ids": [
+      "Thaleia.Ntiniakou"
+    ],
+    "formal_definition": "TheCPU usage is the percentage of time that the CPU is being used to complete its tasks."
+  }

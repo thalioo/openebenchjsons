@@ -1,0 +1,23 @@
+{
+    "_id": "PerMedCoE:tool0",
+    "_schema": "https://www.elixir-europe.org/excelerate/WP2/json-schemas/1.0/Tool",
+    "community_ids": ["OEBC009"],
+    "name": "PhysiCell",
+    "description": "PhysiCell is a physics-based cell simulator.",
+    "is_automated": true,
+    "tool_contact_ids": [
+      "Thaleia.Ntiniakou"
+    ],
+    "status": "online",
+    "references": [
+      "doi:10.1371/journal.pcbi.1005991"
+    ],
+    "tool_access": [
+      {
+        "tool_access_type": "other",
+        "link": "https://github.com/MathCancer/PhysiCell",
+        "techdocs":[{"uri":"https://github.com/MathCancer/PhysiCell/tree/master/documentation","label":"source"}]
+      }
+    ]
+
+  }  

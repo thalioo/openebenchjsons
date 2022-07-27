@@ -3,15 +3,13 @@
     "_schema": "https://www.elixir-europe.org/excelerate/WP2/json-schemas/1.0/BenchmarkingEvent",
     "name": "PerMedCoE Community Benchmark",
     "community_id":"OEBC009",
-    "is_automated": true,
     "dates": {
       "creation": "2022-07-08T00:00:00Z",
       "modification": "2022-07-08T14:00:00Z",
       "benchmark_start": "2022-07-08T05:00:00Z",
       "benchmark_stop": "2022-07-08T02:00:00Z"
     },
-    "url": "",
     "bench_contact_ids": [
-      ""
+      "Thaleia.Ntiniakou"
     ]
   }
