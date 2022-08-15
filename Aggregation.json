@@ -1,0 +1,48 @@
+{
+    "_id": "PerMedCoE:PerMedCoE:2022-07-08_Aggregation",
+    "_schema": "https://www.elixir-europe.org/excelerate/WP2/json-schemas/1.0/Dataset",
+    "challenge_ids": [
+        "PerMedCoE:PerMedCoE:2022-07-08"
+    ],
+    "community_ids": [
+        "OEBC009"
+    ],
+    "datalink": {
+        "inline_data": {
+            "challenge_participants": [
+                {
+                    "metric_x": 73681.0,
+                    "metric_y": 0.971849,
+                    "stderr_y": "0.000817",
+                    "tool_id": "EggNOG"
+                }
+            ],
+            "visualization": {
+                "type": "2D-plot",
+                "x_axis": "OEBM0020000002",
+                "y_axis": "OEBM0020000001"
+            }
+        },
+        "schema_url": "https://raw.githubusercontent.com/inab/OpenEBench_scientific_visualizer/js/benchmarking_data_model/inline_data_visualizer.json"
+    },
+    "dataset_contact_ids": [
+        "Thaleia.Ntiniakou"
+    ],
+    "dates": {
+        "creation": "2022-07-08T00:00:00Z",
+        "modification": "2022-07-08T00:00:00Z"
+    },
+    "depends_on": {
+        "rel_dataset_ids": [
+            {
+                "dataset_id": "QfO:2011-07-07_ECtest_A_ECTest_ortholog_relations_EggNOG"
+            }
+        ],
+        "tool_id": "QfO:aggregate_benchmark"
+    },
+    "description": "Summary dataset with information about challenge Enzyme Classification Conservation Test (e.g. input/output datasets, metrics...) in participant OMA-Pairs",
+    "name": "Summary dataset for challenge: ECtest",
+    "type": "aggregation",
+    "version": "unknown",
+    "visibility": "public"
+}
