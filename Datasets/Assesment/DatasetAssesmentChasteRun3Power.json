@@ -1,0 +1,36 @@
+{
+    "_id": "PerMEdCoE:tool1:run3:Power",
+    "_schema": "https://www.elixir-europe.org/excelerate/WP2/json-schemas/1.0/Dataset",
+    "challenge_ids": [
+        "PerMedCoE:PerMedCoE:2022-07-08"
+    ],
+    "community_ids": [
+        "OEBC009"
+    ],
+    "datalink": {
+        "inline_data": {
+            "value": 132.0125523
+        }
+    },
+    "dataset_contact_ids": [
+        "Thaleia.Ntiniakou"
+    ],
+    "dates": {
+        "creation": "2022-07-08T00:00:00Z",
+        "modification": "2022-07-08T00:00:00Z"
+    },
+    "depends_on": {
+        "metrics_id": "PerMedCoE:Power",
+        "rel_dataset_ids": [
+            {
+                "dataset_id": "PerMedCoE:Chaste_Cells_Run3"
+            }
+        ],
+        "tool_id": "PerMedCoE:tool1"
+    },
+    "description": "Assessment dataset for applying Power Metric",
+    "name": "Power Metric for Tool1-Chaste with Run 3",
+    "type": "assessment",
+    "version": "1",
+    "visibility": "public"
+}

@@ -1,0 +1,22 @@
+{
+    "_id": "PerMEdCoE:PhysicellInput",
+    "_schema": "https://www.elixir-europe.org/excelerate/WP2/json-schemas/1.0/Dataset",
+    "type": "input",
+    "challenge_ids": ["PerMedCoE:PerMedCoE:2022-07-08"],
+    "name": "Physicell Configuration XML",
+    "description": "Configuration for Physicell Executions",
+    "version": "1",
+    "visibility": "public",
+    "datalink": {
+      "uri": "https://github.com/PerMedCoE/observatory_benchmark/blob/main/multiscale_benchmark/Physicell/code/config/PhysiCell_settings_1024.xml",
+      "attrs": ["inline"]
+    },
+    "dates": {
+      "creation": "2022-07-08T00:00:00Z",
+      "modification": "2022-07-08T00:00:00Z"
+    },
+    "dataset_contact_ids": [
+      "Thaleia.Ntiniakou"
+    ]
+  }
+  

@@ -1,0 +1,24 @@
+{
+    "_id": "PerMEdCoE:PhysicellRun3CPU",
+    "_schema": "https://www.elixir-europe.org/excelerate/WP2/json-schemas/1.0/TestAction",
+    "action_type": "MetricsEvent",
+    "challenge_id": "PerMedCoE:PerMedCoE:2022-07-08",
+    "dates": {
+        "creation": "2022-07-08T00:00:00Z",
+        "reception": "2022-07-08T00:00:00Z"
+    },
+    "involved_datasets": [
+        {
+            "dataset_id": "PerMEdCoE:tool0:run3:CPU",
+            "role": "incoming"
+        },
+        {
+            "dataset_id": "PerMEdCoE:tool0:run3:CPU",
+            "role": "outgoing"
+        }
+    ],
+    "test_contact_ids": [
+        "Thaleia.Ntiniakou"
+    ],
+    "tool_id": "PerMedCoE:tool0"
+}

@@ -1,0 +1,38 @@
+{
+    "_id": "PerMedCoE:Timothy_Cells_Run3",
+    "_schema": "https://www.elixir-europe.org/excelerate/WP2/json-schemas/1.0/Dataset",
+    "challenge_ids": [
+        "PerMedCoE:PerMedCoE:2022-07-08"
+    ],
+    "community_ids": [
+        "OEBC009"
+    ],
+    "datalink": {
+        "attrs": [
+            "archive"
+        ],
+        "status": "ok",
+        "uri": "https://github.com/PerMedCoE/observatory_benchmark/blob/main/multiscale_benchmark/Chaste/21612981.csv",
+        "validation_date": "2022-07-08T00:00:00Z"
+    },
+    "dataset_contact_ids": [
+        "Thaleia.Ntiniakou"
+    ],
+    "dates": {
+        "creation": "2022-07-08T00:00:00Z",
+        "modification": "2022-07-08T00:00:00Z"
+    },
+    "depends_on": {
+        "rel_dataset_ids": [
+            {
+                "dataset_id": "PerMEdCoE:TimothyInput"
+            }
+        ],
+        "tool_id": "PerMedCoE:tool2"
+    },
+    "description": "Number of Cells produced by Timothy during the Third Simulation",
+    "name": "Cells produced by Timothy",
+    "type": "participant",
+    "version": "unknown",
+    "visibility": "public"
+}

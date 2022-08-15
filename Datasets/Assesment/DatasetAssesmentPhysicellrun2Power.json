@@ -1,0 +1,39 @@
+{
+    "_id": "PerMEdCoE:tool0:run2:Power",
+    "_schema": "https://www.elixir-europe.org/excelerate/WP2/json-schemas/1.0/Dataset",
+    "challenge_ids": [
+        "PerMedCoE:PerMedCoE:2022-07-08"
+    ],
+    "community_ids": [
+        "OEBC009"
+    ],
+    "datalink": {
+        "inline_data": {
+            "value": 331.4560669
+        }
+    },
+    "dataset_contact_ids": [
+        "Thaleia.Ntiniakou"
+    ],
+    "dates": {
+        "creation": "2022-07-08T00:00:00Z",
+        "modification": "2022-07-08T00:00:00Z"
+    },
+    "depends_on": {
+        "metrics_id": "PerMedCoE:Power",
+        "rel_dataset_ids": [
+            {
+                "dataset_id": "PerMEdCoE:PhysicellInput"
+            },
+            {
+                "dataset_id": "PerMedCoE:Physicell_Cells_Run2"
+            }
+        ],
+        "tool_id": "PerMedCoE:tool0"
+    },
+    "description": "Assessment dataset for applying Power Metric",
+    "name": "Power Metric for Tool0-Physicell with Run 2",
+    "type": "assessment",
+    "version": "1",
+    "visibility": "public"
+}
