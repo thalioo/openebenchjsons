@@ -9,7 +9,11 @@
     "visibility": "public",
     "datalink": {
       "uri": "https://github.com/PerMedCoE/observatory_benchmark/blob/main/multiscale_benchmark/Physicell/code/config/PhysiCell_settings_1024.xml",
-      "attrs": ["inline"]
+      "attrs": [
+        "archive"
+    ],
+      "status": "ok",
+      "validation_date": "2022-07-08T00:00:00Z"
     },
     "dates": {
       "creation": "2022-07-08T00:00:00Z",
