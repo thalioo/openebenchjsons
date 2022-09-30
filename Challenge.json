@@ -7,10 +7,9 @@
     "dates": {
       "creation": "2022-07-08T00:00:00Z",
       "modification": "2022-07-08T14:00:00Z",
-      "benchmark_start": "2022-07-08T05:00:00Z",
-      "benchmark_stop": "2022-07-088T02:00:00Z"
+      "challenge_start": "2022-07-08T02:00:00Z",
+      "challenge_stop": "2022-07-08T05:00:00Z"
     },
-    "url": "",
     "challenge_contact_ids": [
       "Thaleia.Ntiniakou"
     ]
