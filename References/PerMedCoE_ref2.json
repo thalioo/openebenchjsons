@@ -1,7 +1,7 @@
 {
-    "_id": "doi: 10.1109/MCSE.2015.66",
+    "_id": "doi:10.1109/MCSE.2015.66",
     "_schema": "https://www.elixir-europe.org/excelerate/WP2/json-schemas/1.0/Reference",
     "title": "Large-Scale Parallel Simulations of 3D Cell Colony Dynamics: The Cellular Environment",
-    "bibliographic_ids": ["pmid:27295638", "doi: 10.1109/MCSE.2015.66"]
+    "bibliographic_ids": ["pmid:27295638", "doi:10.1109/MCSE.2015.66"]
     }
     
