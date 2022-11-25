@@ -1,0 +1,49 @@
+{
+    "_id": "PerMedCoE:Physicell_Participant_Dataset",
+    "_schema": "https://www.elixir-europe.org/excelerate/WP2/json-schemas/1.0/Dataset",
+    "challenge_ids": [
+        "PerMedCoE:PerMedCoE:2022-07-08"
+    ],
+    "community_ids": [
+        "OEBC009"
+    ],
+    "datalink": {
+        "inline_data": {
+            "CPU": [
+                98.55794118,
+                69.98179487,
+                61.86947368
+            ],
+            "Mem": [
+                5.602226891,
+                4.732301255,
+                4.331764706
+            ],
+            "Power": [
+                334.1470588,
+                331.4560669,
+                337.2605042
+            ]
+        }
+    },
+    "dataset_contact_ids": [
+        "Thaleia.Ntiniakou"
+    ],
+    "dates": {
+        "creation": "2022-07-08T00:00:00Z",
+        "modification": "2022-07-08T00:00:00Z"
+    },
+    "depends_on": {
+        "rel_dataset_ids": [
+            {
+                "dataset_id": "PerMEdCoE:PhysicellInput"
+            }
+        ],
+        "tool_id": "PerMedCoE:tool0"
+    },
+    "description": "Number of Cells produced by Physicell during the First Simulation",
+    "name": "Cells produced by Physicell",
+    "type": "participant",
+    "version": "unknown",
+    "visibility": "public"
+}
